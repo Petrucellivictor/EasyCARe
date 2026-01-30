@@ -1,0 +1,17 @@
+
+{
+  "info": {
+    "name": "EasyCare API",
+    "_postman_id": "12345",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get Vehicles",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8080/api/vehicles"
+      }
+    }
+  ]
+}
