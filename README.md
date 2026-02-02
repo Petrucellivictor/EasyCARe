@@ -1,3 +1,5 @@
+<img width="540" height="448" alt="Captura de tela 2025-04-28 172732" src="https://github.com/user-attachments/assets/68e1c137-3f38-47c4-9861-b1db35dbacae" />
+
 # EASYCARE – DESCRIÇÃO COMPLETA DA IDEIA DO PROJETO
 
 ---
