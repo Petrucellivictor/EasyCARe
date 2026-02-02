@@ -12,7 +12,7 @@ O objetivo principal é facilitar a manutenção preventiva, aumentar a transpar
 
 ---
 
-# 2. Problema que o EasyCARe Resolve
+# 2. Dores que o EasyCARe soluciona
 
 Atualmente, o histórico de manutenção de veículos é fragmentado, perdido ou inexistente. Proprietários esquecem revisões importantes, e oficinas não possuem sistemas organizados para registrar serviços, gerar relatórios e manter comunicação eficiente com clientes.
 
